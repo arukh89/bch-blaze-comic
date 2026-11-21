@@ -1,4 +1,4 @@
-# Kirim Uang Pulang — BCH BLAZE 2026, Media Track
+# Sending Money Home — BCH BLAZE 2026, Media Track
 
 A 6-panel original comic about sending money home with Bitcoin Cash.
 Author: Ahmad (@arukh89).

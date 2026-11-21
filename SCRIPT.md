@@ -1,4 +1,4 @@
-# "Kirim Uang Pulang" — a 6-panel comic for BCH BLAZE 2026, Media Track
+# "Sending Money Home" — a 6-panel comic for BCH BLAZE 2026, Media Track
 
 Original story, written for this hackathon. English captions (the Media
 Track judge reads English). All facts checked against bitcoincash.org:

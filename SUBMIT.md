@@ -1,4 +1,4 @@
-# SUBMIT — BCH BLAZE 2026 Media Track ("Kirim Uang Pulang")
+# SUBMIT — BCH BLAZE 2026 Media Track ("Sending Money Home")
 
 Deadline: **Saturday 22 Nov 2026, 21:00 WIB** (14:00 UTC).
 Do these steps from Ahmad's laptop / Chrome (device browser only).
@@ -18,7 +18,7 @@ Do these steps from Ahmad's laptop / Chrome (device browser only).
    the Join button is gone, STOP here and tell the agent: the entry
    cannot be submitted through DoraHacks.
 3. Submit a project → track **Media Track** → title:
-   `Kirim Uang Pulang — a Bitcoin Cash comic`
+   `Sending Money Home — a Bitcoin Cash comic`
 4. Fill in:
    - **Demo / live link:** https://arukh89.github.io/bch-blaze-comic/
    - **Description:** paste the 6 captions from `SCRIPT.md` + the fact
@@ -33,8 +33,8 @@ Do these steps from Ahmad's laptop / Chrome (device browser only).
 
 ## 3. Confirm in Telegram (2 min)
 1. Join https://t.me/bchblaze (Telegram @Arukh89 — already logged in).
-2. Post: "Hi, confirming my Media Track entry is real: 'Kirim Uang
-   Pulang — a Bitcoin Cash comic' by @arukh89 —
+2. Post: "Hi, confirming my Media Track entry is real: 'Sending Money Home
+   — a Bitcoin Cash comic' by @arukh89 —
    https://arukh89.github.io/bch-blaze-comic/ — submitted on DoraHacks."
    (This is the "confirmed they are real" requirement.)
 
